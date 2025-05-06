@@ -1,20 +1,14 @@
 # About the project
 
-A comprehensive CRM project to demonstrate Django's capabilities for managing customer relationships and data.
+A comprehensive CRM project to demonstrate Django's capabilities for managing customer relationships and data. It allows users to register, log in, and manage customer records with full Create, Read, Update, and Delete (CRUD) functionality. The app uses Django’s built-in authentication system and clean form handling to manage user accounts and customer data efficiently.
 
-# Support
+### 🛠 Tech Stack
 
-If you like this project and want to leave a donation, you are more than welcome to support this project down below:
-
-[![Donate with Stripe](https://img.shields.io/badge/Donate%20with%20Stripe-6a1b9a?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/28o4hEeFg5mcc3C9AE)
-
-# Connect
-
-Feel free to connect with me on the following platforms:
-
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CloudWithDjango)
-
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CloudWDjango)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
